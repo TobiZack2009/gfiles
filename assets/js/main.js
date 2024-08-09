@@ -12,10 +12,11 @@ function closeGame() {
 (async () => {
   s = await fetch("assets/games.json");
   r = await s.json();
+  
 
   for (let i in r) {
     let z = r[i]; //One of the iterable objects.
-    if (z.type != "HTML5") continue;
+    if (z.name == "webretro"|| z.includes("Upload")) continue;
 
     let gamesList=document.querySelector(".game-list")
     let gameDiv=document.createElement("div")
