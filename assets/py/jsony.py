@@ -3,7 +3,7 @@ import glob
 import json
 from itertools import chain
 
-outindex = "games_list.json"
+outindex = "./assets/games.json"
 outdir = "./assets/gfiles/"
 html5gamesin = "html5/"
 rarchgamesin = "rarch/"
@@ -36,7 +36,7 @@ html5_1 = next(os.walk(outdir + html5gamesin))[1]
 add_game("HTML5", "webretro", outdir + rarchgamesin)
 for game in html5_1:
     display_name = html5names.get(game, game.capitalize())
-    add_game("HTML5", display_name, outdir + html5gamesin + game + "/")
+    add_game("HTML5", display_name,"" + outdir + html5gamesin + game + "/")
 
 # Process GBA games
 gba_1 = list(chain.from_iterable([glob.glob(outdir + rarchgamesin + romdir + ext) for ext in pregba]))

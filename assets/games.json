@@ -2,1326 +2,1326 @@
     {
         "type": "HTML5",
         "name": "webretro",
-        "path": "./gfiles/rarch/"
+        "path": "./assets/gfiles/rarch/"
     },
     {
         "type": "HTML5",
         "name": "Asteroids",
-        "path": "./gfiles/html5/asteroids/"
+        "path": "./assets/gfiles/html5/asteroids/"
     },
     {
         "type": "HTML5",
         "name": "Edge not Found",
-        "path": "./gfiles/html5/edgenotfound/"
+        "path": "./assets/gfiles/html5/edgenotfound/"
     },
     {
         "type": "HTML5",
         "name": "Pac-Man",
-        "path": "./gfiles/html5/pacman/"
+        "path": "./assets/gfiles/html5/pacman/"
     },
     {
         "type": "HTML5",
         "name": "2048",
-        "path": "./gfiles/html5/2048/"
+        "path": "./assets/gfiles/html5/2048/"
     },
     {
         "type": "HTML5",
         "name": "Evil Glitch",
-        "path": "./gfiles/html5/evilglitch/"
+        "path": "./assets/gfiles/html5/evilglitch/"
     },
     {
         "type": "HTML5",
         "name": "Geometry Dash",
-        "path": "./gfiles/html5/geometrydash/"
+        "path": "./assets/gfiles/html5/geometrydash/"
     },
     {
         "type": "HTML5",
         "name": "Connect 3",
-        "path": "./gfiles/html5/connect3/"
+        "path": "./assets/gfiles/html5/connect3/"
     },
     {
         "type": "HTML5",
         "name": "Bounce Back",
-        "path": "./gfiles/html5/bounceback/"
+        "path": "./assets/gfiles/html5/bounceback/"
     },
     {
         "type": "HTML5",
         "name": "Space Garden",
-        "path": "./gfiles/html5/spacegarden/"
+        "path": "./assets/gfiles/html5/spacegarden/"
     },
     {
         "type": "HTML5",
         "name": "Astray",
-        "path": "./gfiles/html5/astray/"
+        "path": "./assets/gfiles/html5/astray/"
     },
     {
         "type": "HTML5",
         "name": "Retrohaunt",
-        "path": "./gfiles/html5/retrohaunt/"
+        "path": "./assets/gfiles/html5/retrohaunt/"
     },
     {
         "type": "HTML5",
         "name": "Factory Balls Forever",
-        "path": "./gfiles/html5/factoryballsforever/"
+        "path": "./assets/gfiles/html5/factoryballsforever/"
     },
     {
         "type": "HTML5",
         "name": "Hextris",
-        "path": "./gfiles/html5/hextris/"
+        "path": "./assets/gfiles/html5/hextris/"
     },
     {
         "type": "HTML5",
         "name": "Backcountry",
-        "path": "./gfiles/html5/backcountry/"
+        "path": "./assets/gfiles/html5/backcountry/"
     },
     {
         "type": "HTML5",
         "name": "Towermaster",
-        "path": "./gfiles/html5/towermaster/"
+        "path": "./assets/gfiles/html5/towermaster/"
     },
     {
         "type": "HTML5",
         "name": "Chrome Dino",
-        "path": "./gfiles/html5/chromedino/"
+        "path": "./assets/gfiles/html5/chromedino/"
     },
     {
         "type": "HTML5",
         "name": "Tetris",
-        "path": "./gfiles/html5/tetris/"
+        "path": "./assets/gfiles/html5/tetris/"
     },
     {
         "type": "HTML5",
         "name": "Captain Callisto",
-        "path": "./gfiles/html5/captaincallisto/"
+        "path": "./assets/gfiles/html5/captaincallisto/"
     },
     {
         "type": "HTML5",
         "name": "Ninja vs Evilcorp",
-        "path": "./gfiles/html5/ninjavsevilcorp/"
+        "path": "./assets/gfiles/html5/ninjavsevilcorp/"
     },
     {
         "type": "HTML5",
         "name": "Run 3",
-        "path": "./gfiles/html5/run3/"
+        "path": "./assets/gfiles/html5/run3/"
     },
     {
         "type": "HTML5",
         "name": "xx142-b2.exe",
-        "path": "./gfiles/html5/xx142-b2exe/"
+        "path": "./assets/gfiles/html5/xx142-b2exe/"
     },
     {
         "type": "HTML5",
         "name": "The Maze of Space Goblins",
-        "path": "./gfiles/html5/themazeofspacegoblins/"
+        "path": "./assets/gfiles/html5/themazeofspacegoblins/"
     },
     {
         "type": "HTML5",
         "name": "Q1k3",
-        "path": "./gfiles/html5/q1k3/"
+        "path": "./assets/gfiles/html5/q1k3/"
     },
     {
         "type": "HTML5",
         "name": "Breakout",
-        "path": "./gfiles/html5/breakout/"
+        "path": "./assets/gfiles/html5/breakout/"
     },
     {
         "type": "HTML5",
         "name": "Underrun",
-        "path": "./gfiles/html5/underrun/"
+        "path": "./assets/gfiles/html5/underrun/"
     },
     {
         "type": "HTML5",
         "name": "Road Blocks",
-        "path": "./gfiles/html5/roadblocks/"
+        "path": "./assets/gfiles/html5/roadblocks/"
     },
     {
         "type": "HTML5",
         "name": "Chess",
-        "path": "./gfiles/html5/chess/"
+        "path": "./assets/gfiles/html5/chess/"
     },
     {
         "type": "HTML5",
         "name": "A Dark Room",
-        "path": "./gfiles/html5/adarkroom/"
+        "path": "./assets/gfiles/html5/adarkroom/"
     },
     {
         "type": "HTML5",
         "name": "Radius Raid",
-        "path": "./gfiles/html5/radiusraid/"
+        "path": "./assets/gfiles/html5/radiusraid/"
     },
     {
         "type": "HTML5",
         "name": "Push Back",
-        "path": "./gfiles/html5/pushback/"
+        "path": "./assets/gfiles/html5/pushback/"
     },
     {
         "type": "HTML5",
         "name": "Chroma Incident",
-        "path": "./gfiles/html5/chromaincident/"
+        "path": "./assets/gfiles/html5/chromaincident/"
     },
     {
         "type": "HTML5",
         "name": "Trimps",
-        "path": "./gfiles/html5/trimps/"
+        "path": "./assets/gfiles/html5/trimps/"
     },
     {
         "type": "HTML5",
         "name": "Particle Clicker",
-        "path": "./gfiles/html5/particleclicker/"
+        "path": "./assets/gfiles/html5/particleclicker/"
     },
     {
         "type": "HTML5",
         "name": "Space Company",
-        "path": "./gfiles/html5/spacecompany/"
+        "path": "./assets/gfiles/html5/spacecompany/"
     },
     {
         "type": "HTML5",
         "name": "Space Huggers",
-        "path": "./gfiles/html5/spacehuggers/"
+        "path": "./assets/gfiles/html5/spacehuggers/"
     },
     {
         "type": "HTML5",
         "name": "Sleeping Beauty",
-        "path": "./gfiles/html5/sleepingbeauty/"
+        "path": "./assets/gfiles/html5/sleepingbeauty/"
     },
     {
         "type": "HTML5",
         "name": "ASCII Space",
-        "path": "./gfiles/html5/asciispace/"
+        "path": "./assets/gfiles/html5/asciispace/"
     },
     {
         "type": "HTML5",
         "name": "Minecraft",
-        "path": "./gfiles/html5/minecraft/"
+        "path": "./assets/gfiles/html5/minecraft/"
     },
     {
         "type": "HTML5",
         "name": "Flappy Bird",
-        "path": "./gfiles/html5/flappybird/"
+        "path": "./assets/gfiles/html5/flappybird/"
     },
     {
         "type": "HTML5",
         "name": "Cookie Clicker",
-        "path": "./gfiles/html5/cookieclicker/"
+        "path": "./assets/gfiles/html5/cookieclicker/"
     },
     {
         "type": "HTML5",
         "name": "Black Hole Square",
-        "path": "./gfiles/html5/blackholesquare/"
+        "path": "./assets/gfiles/html5/blackholesquare/"
     },
     {
         "type": "HTML5",
         "name": "Racer",
-        "path": "./gfiles/html5/racer/"
+        "path": "./assets/gfiles/html5/racer/"
     },
     {
         "type": "HTML5",
         "name": "Breaklock",
-        "path": "./gfiles/html5/breaklock/"
+        "path": "./assets/gfiles/html5/breaklock/"
     },
     {
         "type": "HTML5",
         "name": "Shuttledeck",
-        "path": "./gfiles/html5/shuttledeck/"
+        "path": "./assets/gfiles/html5/shuttledeck/"
     },
     {
         "type": "HTML5",
         "name": "Konnekt",
-        "path": "./gfiles/html5/konnekt/"
+        "path": "./assets/gfiles/html5/konnekt/"
     },
     {
         "type": "HTML5",
         "name": "Packabunchas",
-        "path": "./gfiles/html5/packabunchas/"
+        "path": "./assets/gfiles/html5/packabunchas/"
     },
     {
         "type": "HTML5",
         "name": "Snake",
-        "path": "./gfiles/html5/snake/"
+        "path": "./assets/gfiles/html5/snake/"
     },
     {
         "type": "GBA",
         "name": "Upload ROM",
-        "path": "./gfiles/rarch/",
+        "path": "./assets/gfiles/rarch/",
         "core": "mgba"
     },
     {
         "type": "Genesis / Master System",
         "name": "Upload ROM",
-        "path": "./gfiles/rarch/",
+        "path": "./assets/gfiles/rarch/",
         "core": "genesis_plus_gx"
     },
     {
         "type": "Nintendo 64",
         "name": "Upload ROM",
-        "path": "./gfiles/rarch/",
+        "path": "./assets/gfiles/rarch/",
         "core": "mupen64plus_next"
     },
     {
         "type": "NES",
         "name": "Upload ROM",
-        "path": "./gfiles/rarch/",
+        "path": "./assets/gfiles/rarch/",
         "core": "nestopia"
     },
     {
         "type": "Super Nintendo",
         "name": "Upload ROM",
-        "path": "./gfiles/rarch/",
+        "path": "./assets/gfiles/rarch/",
         "core": "snes9x"
     },
     {
         "type": "Flash",
         "name": "Upload SWF",
-        "path": "./gfiles/flash/"
+        "path": "./assets/gfiles/flash/"
     },
     {
         "type": "Flash",
         "name": "1on1soccer",
-        "path": "./gfiles/flash/?swf=1on1soccer.swf"
+        "path": "./assets/gfiles/flash/?swf=1on1soccer.swf"
     },
     {
         "type": "Flash",
         "name": "3dtanks",
-        "path": "./gfiles/flash/?swf=3dtanks.swf"
+        "path": "./assets/gfiles/flash/?swf=3dtanks.swf"
     },
     {
         "type": "Flash",
         "name": "Abobosbigadventure",
-        "path": "./gfiles/flash/?swf=abobosbigadventure.swf"
+        "path": "./assets/gfiles/flash/?swf=abobosbigadventure.swf"
     },
     {
         "type": "Flash",
         "name": "Achievementunlocked",
-        "path": "./gfiles/flash/?swf=achievementunlocked.swf"
+        "path": "./assets/gfiles/flash/?swf=achievementunlocked.swf"
     },
     {
         "type": "Flash",
         "name": "Achievementunlocked2",
-        "path": "./gfiles/flash/?swf=achievementunlocked2.swf"
+        "path": "./assets/gfiles/flash/?swf=achievementunlocked2.swf"
     },
     {
         "type": "Flash",
         "name": "Achievementunlocked3",
-        "path": "./gfiles/flash/?swf=achievementunlocked3.swf"
+        "path": "./assets/gfiles/flash/?swf=achievementunlocked3.swf"
     },
     {
         "type": "Flash",
         "name": "Actionturnip",
-        "path": "./gfiles/flash/?swf=actionturnip.swf"
+        "path": "./assets/gfiles/flash/?swf=actionturnip.swf"
     },
     {
         "type": "Flash",
         "name": "Adaran",
-        "path": "./gfiles/flash/?swf=adaran.swf"
+        "path": "./assets/gfiles/flash/?swf=adaran.swf"
     },
     {
         "type": "Flash",
         "name": "Adrenaline",
-        "path": "./gfiles/flash/?swf=adrenaline.swf"
+        "path": "./assets/gfiles/flash/?swf=adrenaline.swf"
     },
     {
         "type": "Flash",
         "name": "Americanracing1",
-        "path": "./gfiles/flash/?swf=americanracing1.swf"
+        "path": "./assets/gfiles/flash/?swf=americanracing1.swf"
     },
     {
         "type": "Flash",
         "name": "Americanracing2",
-        "path": "./gfiles/flash/?swf=americanracing2.swf"
+        "path": "./assets/gfiles/flash/?swf=americanracing2.swf"
     },
     {
         "type": "Flash",
         "name": "Arkandianrevenant",
-        "path": "./gfiles/flash/?swf=arkandianrevenant.swf"
+        "path": "./assets/gfiles/flash/?swf=arkandianrevenant.swf"
     },
     {
         "type": "Flash",
         "name": "Armyofages",
-        "path": "./gfiles/flash/?swf=armyofages.swf"
+        "path": "./assets/gfiles/flash/?swf=armyofages.swf"
     },
     {
         "type": "Flash",
         "name": "Awesomecars",
-        "path": "./gfiles/flash/?swf=awesomecars.swf"
+        "path": "./assets/gfiles/flash/?swf=awesomecars.swf"
     },
     {
         "type": "Flash",
         "name": "Awesomeplanes",
-        "path": "./gfiles/flash/?swf=awesomeplanes.swf"
+        "path": "./assets/gfiles/flash/?swf=awesomeplanes.swf"
     },
     {
         "type": "Flash",
         "name": "Battlepanic",
-        "path": "./gfiles/flash/?swf=battlepanic.swf"
+        "path": "./assets/gfiles/flash/?swf=battlepanic.swf"
     },
     {
         "type": "Flash",
         "name": "Bloonsplayerpack2",
-        "path": "./gfiles/flash/?swf=bloonsplayerpack2.swf"
+        "path": "./assets/gfiles/flash/?swf=bloonsplayerpack2.swf"
     },
     {
         "type": "Flash",
         "name": "Bloonsplayerpack3",
-        "path": "./gfiles/flash/?swf=bloonsplayerpack3.swf"
+        "path": "./assets/gfiles/flash/?swf=bloonsplayerpack3.swf"
     },
     {
         "type": "Flash",
         "name": "Bloonsplayerpack4",
-        "path": "./gfiles/flash/?swf=bloonsplayerpack4.swf"
+        "path": "./assets/gfiles/flash/?swf=bloonsplayerpack4.swf"
     },
     {
         "type": "Flash",
         "name": "Bloonsplayerpack5",
-        "path": "./gfiles/flash/?swf=bloonsplayerpack5.swf"
+        "path": "./assets/gfiles/flash/?swf=bloonsplayerpack5.swf"
     },
     {
         "type": "Flash",
         "name": "Bloonstd1",
-        "path": "./gfiles/flash/?swf=bloonstd1.swf"
+        "path": "./assets/gfiles/flash/?swf=bloonstd1.swf"
     },
     {
         "type": "Flash",
         "name": "Bloonstd3",
-        "path": "./gfiles/flash/?swf=bloonstd3.swf"
+        "path": "./assets/gfiles/flash/?swf=bloonstd3.swf"
     },
     {
         "type": "Flash",
         "name": "Bloonstd4",
-        "path": "./gfiles/flash/?swf=bloonstd4.swf"
+        "path": "./assets/gfiles/flash/?swf=bloonstd4.swf"
     },
     {
         "type": "Flash",
         "name": "Bloonstd5",
-        "path": "./gfiles/flash/?swf=bloonstd5.swf"
+        "path": "./assets/gfiles/flash/?swf=bloonstd5.swf"
     },
     {
         "type": "Flash",
         "name": "Bobtherobber",
-        "path": "./gfiles/flash/?swf=bobtherobber.swf"
+        "path": "./assets/gfiles/flash/?swf=bobtherobber.swf"
     },
     {
         "type": "Flash",
         "name": "Boombot2",
-        "path": "./gfiles/flash/?swf=boombot2.swf"
+        "path": "./assets/gfiles/flash/?swf=boombot2.swf"
     },
     {
         "type": "Flash",
         "name": "Boxhead2play",
-        "path": "./gfiles/flash/?swf=boxhead2play.swf"
+        "path": "./assets/gfiles/flash/?swf=boxhead2play.swf"
     },
     {
         "type": "Flash",
         "name": "Bubbletanks2",
-        "path": "./gfiles/flash/?swf=bubbletanks2.swf"
+        "path": "./assets/gfiles/flash/?swf=bubbletanks2.swf"
     },
     {
         "type": "Flash",
         "name": "Bulletbill",
-        "path": "./gfiles/flash/?swf=bulletbill.swf"
+        "path": "./assets/gfiles/flash/?swf=bulletbill.swf"
     },
     {
         "type": "Flash",
         "name": "Bullettimefighting",
-        "path": "./gfiles/flash/?swf=bullettimefighting.swf"
+        "path": "./assets/gfiles/flash/?swf=bullettimefighting.swf"
     },
     {
         "type": "Flash",
         "name": "Burritobison",
-        "path": "./gfiles/flash/?swf=burritobison.swf"
+        "path": "./assets/gfiles/flash/?swf=burritobison.swf"
     },
     {
         "type": "Flash",
         "name": "Burritobisonrevenge",
-        "path": "./gfiles/flash/?swf=burritobisonrevenge.swf"
+        "path": "./assets/gfiles/flash/?swf=burritobisonrevenge.swf"
     },
     {
         "type": "Flash",
         "name": "Cactusmccoy",
-        "path": "./gfiles/flash/?swf=cactusmccoy.swf"
+        "path": "./assets/gfiles/flash/?swf=cactusmccoy.swf"
     },
     {
         "type": "Flash",
         "name": "Cactusmccoy2",
-        "path": "./gfiles/flash/?swf=cactusmccoy2.swf"
+        "path": "./assets/gfiles/flash/?swf=cactusmccoy2.swf"
     },
     {
         "type": "Flash",
         "name": "Cannonbasketball2",
-        "path": "./gfiles/flash/?swf=cannonbasketball2.swf"
+        "path": "./assets/gfiles/flash/?swf=cannonbasketball2.swf"
     },
     {
         "type": "Flash",
         "name": "Cargobridge",
-        "path": "./gfiles/flash/?swf=cargobridge.swf"
+        "path": "./assets/gfiles/flash/?swf=cargobridge.swf"
     },
     {
         "type": "Flash",
         "name": "Causality",
-        "path": "./gfiles/flash/?swf=causality.swf"
+        "path": "./assets/gfiles/flash/?swf=causality.swf"
     },
     {
         "type": "Flash",
         "name": "Chibiknight",
-        "path": "./gfiles/flash/?swf=chibiknight.swf"
+        "path": "./assets/gfiles/flash/?swf=chibiknight.swf"
     },
     {
         "type": "Flash",
         "name": "Clickerheroes",
-        "path": "./gfiles/flash/?swf=clickerheroes.swf"
+        "path": "./assets/gfiles/flash/?swf=clickerheroes.swf"
     },
     {
         "type": "Flash",
         "name": "Computerbashing",
-        "path": "./gfiles/flash/?swf=computerbashing.swf"
+        "path": "./assets/gfiles/flash/?swf=computerbashing.swf"
     },
     {
         "type": "Flash",
         "name": "Crushthecastle",
-        "path": "./gfiles/flash/?swf=crushthecastle.swf"
+        "path": "./assets/gfiles/flash/?swf=crushthecastle.swf"
     },
     {
         "type": "Flash",
         "name": "Crushthecastle2",
-        "path": "./gfiles/flash/?swf=crushthecastle2.swf"
+        "path": "./assets/gfiles/flash/?swf=crushthecastle2.swf"
     },
     {
         "type": "Flash",
         "name": "Cubefield",
-        "path": "./gfiles/flash/?swf=cubefield.swf"
+        "path": "./assets/gfiles/flash/?swf=cubefield.swf"
     },
     {
         "type": "Flash",
         "name": "Cyclomaniacs2",
-        "path": "./gfiles/flash/?swf=cyclomaniacs2.swf"
+        "path": "./assets/gfiles/flash/?swf=cyclomaniacs2.swf"
     },
     {
         "type": "Flash",
         "name": "Diggy",
-        "path": "./gfiles/flash/?swf=diggy.swf"
+        "path": "./assets/gfiles/flash/?swf=diggy.swf"
     },
     {
         "type": "Flash",
         "name": "Donkeykong",
-        "path": "./gfiles/flash/?swf=donkeykong.swf"
+        "path": "./assets/gfiles/flash/?swf=donkeykong.swf"
     },
     {
         "type": "Flash",
         "name": "Dontshootthepuppy",
-        "path": "./gfiles/flash/?swf=dontshootthepuppy.swf"
+        "path": "./assets/gfiles/flash/?swf=dontshootthepuppy.swf"
     },
     {
         "type": "Flash",
         "name": "Doodledefender",
-        "path": "./gfiles/flash/?swf=doodledefender.swf"
+        "path": "./assets/gfiles/flash/?swf=doodledefender.swf"
     },
     {
         "type": "Flash",
         "name": "Doom",
-        "path": "./gfiles/flash/?swf=doom.swf"
+        "path": "./assets/gfiles/flash/?swf=doom.swf"
     },
     {
         "type": "Flash",
         "name": "Dragracing",
-        "path": "./gfiles/flash/?swf=dragracing.swf"
+        "path": "./assets/gfiles/flash/?swf=dragracing.swf"
     },
     {
         "type": "Flash",
         "name": "Ducklife",
-        "path": "./gfiles/flash/?swf=ducklife.swf"
+        "path": "./assets/gfiles/flash/?swf=ducklife.swf"
     },
     {
         "type": "Flash",
         "name": "Ducklife2",
-        "path": "./gfiles/flash/?swf=ducklife2.swf"
+        "path": "./assets/gfiles/flash/?swf=ducklife2.swf"
     },
     {
         "type": "Flash",
         "name": "Ducklife3",
-        "path": "./gfiles/flash/?swf=ducklife3.swf"
+        "path": "./assets/gfiles/flash/?swf=ducklife3.swf"
     },
     {
         "type": "Flash",
         "name": "Ducklife4",
-        "path": "./gfiles/flash/?swf=ducklife4.swf"
+        "path": "./assets/gfiles/flash/?swf=ducklife4.swf"
     },
     {
         "type": "Flash",
         "name": "Earntodie",
-        "path": "./gfiles/flash/?swf=earntodie.swf"
+        "path": "./assets/gfiles/flash/?swf=earntodie.swf"
     },
     {
         "type": "Flash",
         "name": "Earntodie2",
-        "path": "./gfiles/flash/?swf=earntodie2.swf"
+        "path": "./assets/gfiles/flash/?swf=earntodie2.swf"
     },
     {
         "type": "Flash",
         "name": "Earntodiesuperwheel",
-        "path": "./gfiles/flash/?swf=earntodiesuperwheel.swf"
+        "path": "./assets/gfiles/flash/?swf=earntodiesuperwheel.swf"
     },
     {
         "type": "Flash",
         "name": "Electricman2",
-        "path": "./gfiles/flash/?swf=electricman2.swf"
+        "path": "./assets/gfiles/flash/?swf=electricman2.swf"
     },
     {
         "type": "Flash",
         "name": "Elephantquest",
-        "path": "./gfiles/flash/?swf=elephantquest.swf"
+        "path": "./assets/gfiles/flash/?swf=elephantquest.swf"
     },
     {
         "type": "Flash",
         "name": "Epicbattlefantasy3",
-        "path": "./gfiles/flash/?swf=epicbattlefantasy3.swf"
+        "path": "./assets/gfiles/flash/?swf=epicbattlefantasy3.swf"
     },
     {
         "type": "Flash",
         "name": "Epiccomboredux",
-        "path": "./gfiles/flash/?swf=epiccomboredux.swf"
+        "path": "./assets/gfiles/flash/?swf=epiccomboredux.swf"
     },
     {
         "type": "Flash",
         "name": "Exitpath",
-        "path": "./gfiles/flash/?swf=exitpath.swf"
+        "path": "./assets/gfiles/flash/?swf=exitpath.swf"
     },
     {
         "type": "Flash",
         "name": "Factoryballs",
-        "path": "./gfiles/flash/?swf=factoryballs.swf"
+        "path": "./assets/gfiles/flash/?swf=factoryballs.swf"
     },
     {
         "type": "Flash",
         "name": "Factoryballs2",
-        "path": "./gfiles/flash/?swf=factoryballs2.swf"
+        "path": "./assets/gfiles/flash/?swf=factoryballs2.swf"
     },
     {
         "type": "Flash",
         "name": "Factoryballs3",
-        "path": "./gfiles/flash/?swf=factoryballs3.swf"
+        "path": "./assets/gfiles/flash/?swf=factoryballs3.swf"
     },
     {
         "type": "Flash",
         "name": "Factoryballs4",
-        "path": "./gfiles/flash/?swf=factoryballs4.swf"
+        "path": "./assets/gfiles/flash/?swf=factoryballs4.swf"
     },
     {
         "type": "Flash",
         "name": "Fancypantsadventure",
-        "path": "./gfiles/flash/?swf=fancypantsadventure.swf"
+        "path": "./assets/gfiles/flash/?swf=fancypantsadventure.swf"
     },
     {
         "type": "Flash",
         "name": "Fancypantsadventure2",
-        "path": "./gfiles/flash/?swf=fancypantsadventure2.swf"
+        "path": "./assets/gfiles/flash/?swf=fancypantsadventure2.swf"
     },
     {
         "type": "Flash",
         "name": "Fancypantsadventure3",
-        "path": "./gfiles/flash/?swf=fancypantsadventure3.swf"
+        "path": "./assets/gfiles/flash/?swf=fancypantsadventure3.swf"
     },
     {
         "type": "Flash",
         "name": "Flashflightsimulator",
-        "path": "./gfiles/flash/?swf=flashflightsimulator.swf"
+        "path": "./assets/gfiles/flash/?swf=flashflightsimulator.swf"
     },
     {
         "type": "Flash",
         "name": "Flight",
-        "path": "./gfiles/flash/?swf=flight.swf"
+        "path": "./assets/gfiles/flash/?swf=flight.swf"
     },
     {
         "type": "Flash",
         "name": "Fracuum",
-        "path": "./gfiles/flash/?swf=fracuum.swf"
+        "path": "./assets/gfiles/flash/?swf=fracuum.swf"
     },
     {
         "type": "Flash",
         "name": "Freerider2",
-        "path": "./gfiles/flash/?swf=freerider2.swf"
+        "path": "./assets/gfiles/flash/?swf=freerider2.swf"
     },
     {
         "type": "Flash",
         "name": "Getontop",
-        "path": "./gfiles/flash/?swf=getontop.swf"
+        "path": "./assets/gfiles/flash/?swf=getontop.swf"
     },
     {
         "type": "Flash",
         "name": "Giveuprobot",
-        "path": "./gfiles/flash/?swf=giveuprobot.swf"
+        "path": "./assets/gfiles/flash/?swf=giveuprobot.swf"
     },
     {
         "type": "Flash",
         "name": "Giveuprobot2",
-        "path": "./gfiles/flash/?swf=giveuprobot2.swf"
+        "path": "./assets/gfiles/flash/?swf=giveuprobot2.swf"
     },
     {
         "type": "Flash",
         "name": "Hanger",
-        "path": "./gfiles/flash/?swf=hanger.swf"
+        "path": "./assets/gfiles/flash/?swf=hanger.swf"
     },
     {
         "type": "Flash",
         "name": "Hanger2",
-        "path": "./gfiles/flash/?swf=hanger2.swf"
+        "path": "./assets/gfiles/flash/?swf=hanger2.swf"
     },
     {
         "type": "Flash",
         "name": "Happywheels",
-        "path": "./gfiles/flash/?swf=happywheels.swf"
+        "path": "./assets/gfiles/flash/?swf=happywheels.swf"
     },
     {
         "type": "Flash",
         "name": "Hobo",
-        "path": "./gfiles/flash/?swf=hobo.swf"
+        "path": "./assets/gfiles/flash/?swf=hobo.swf"
     },
     {
         "type": "Flash",
         "name": "Hobo2",
-        "path": "./gfiles/flash/?swf=hobo2.swf"
+        "path": "./assets/gfiles/flash/?swf=hobo2.swf"
     },
     {
         "type": "Flash",
         "name": "Hobo3",
-        "path": "./gfiles/flash/?swf=hobo3.swf"
+        "path": "./assets/gfiles/flash/?swf=hobo3.swf"
     },
     {
         "type": "Flash",
         "name": "Hobo4",
-        "path": "./gfiles/flash/?swf=hobo4.swf"
+        "path": "./assets/gfiles/flash/?swf=hobo4.swf"
     },
     {
         "type": "Flash",
         "name": "Hobo5",
-        "path": "./gfiles/flash/?swf=hobo5.swf"
+        "path": "./assets/gfiles/flash/?swf=hobo5.swf"
     },
     {
         "type": "Flash",
         "name": "Hobo6",
-        "path": "./gfiles/flash/?swf=hobo6.swf"
+        "path": "./assets/gfiles/flash/?swf=hobo6.swf"
     },
     {
         "type": "Flash",
         "name": "Hobo7",
-        "path": "./gfiles/flash/?swf=hobo7.swf"
+        "path": "./assets/gfiles/flash/?swf=hobo7.swf"
     },
     {
         "type": "Flash",
         "name": "Houseofwolves",
-        "path": "./gfiles/flash/?swf=houseofwolves.swf"
+        "path": "./assets/gfiles/flash/?swf=houseofwolves.swf"
     },
     {
         "type": "Flash",
         "name": "Interactivebuddy",
-        "path": "./gfiles/flash/?swf=interactivebuddy.swf"
+        "path": "./assets/gfiles/flash/?swf=interactivebuddy.swf"
     },
     {
         "type": "Flash",
         "name": "Jacksmith",
-        "path": "./gfiles/flash/?swf=jacksmith.swf"
+        "path": "./assets/gfiles/flash/?swf=jacksmith.swf"
     },
     {
         "type": "Flash",
         "name": "Jellytruck",
-        "path": "./gfiles/flash/?swf=jellytruck.swf"
+        "path": "./assets/gfiles/flash/?swf=jellytruck.swf"
     },
     {
         "type": "Flash",
         "name": "Johnnyupgrade",
-        "path": "./gfiles/flash/?swf=johnnyupgrade.swf"
+        "path": "./assets/gfiles/flash/?swf=johnnyupgrade.swf"
     },
     {
         "type": "Flash",
         "name": "Jumpix2",
-        "path": "./gfiles/flash/?swf=jumpix2.swf"
+        "path": "./assets/gfiles/flash/?swf=jumpix2.swf"
     },
     {
         "type": "Flash",
         "name": "Knightmaretower",
-        "path": "./gfiles/flash/?swf=knightmaretower.swf"
+        "path": "./assets/gfiles/flash/?swf=knightmaretower.swf"
     },
     {
         "type": "Flash",
         "name": "Learn2fly",
-        "path": "./gfiles/flash/?swf=learn2fly.swf"
+        "path": "./assets/gfiles/flash/?swf=learn2fly.swf"
     },
     {
         "type": "Flash",
         "name": "Learn2fly2",
-        "path": "./gfiles/flash/?swf=learn2fly2.swf"
+        "path": "./assets/gfiles/flash/?swf=learn2fly2.swf"
     },
     {
         "type": "Flash",
         "name": "Learn2fly3",
-        "path": "./gfiles/flash/?swf=learn2fly3.swf"
+        "path": "./assets/gfiles/flash/?swf=learn2fly3.swf"
     },
     {
         "type": "Flash",
         "name": "Magnetface",
-        "path": "./gfiles/flash/?swf=magnetface.swf"
+        "path": "./assets/gfiles/flash/?swf=magnetface.swf"
     },
     {
         "type": "Flash",
         "name": "Mariocombat",
-        "path": "./gfiles/flash/?swf=mariocombat.swf"
+        "path": "./assets/gfiles/flash/?swf=mariocombat.swf"
     },
     {
         "type": "Flash",
         "name": "Marioracingtournament",
-        "path": "./gfiles/flash/?swf=marioracingtournament.swf"
+        "path": "./assets/gfiles/flash/?swf=marioracingtournament.swf"
     },
     {
         "type": "Flash",
         "name": "Meatboy",
-        "path": "./gfiles/flash/?swf=meatboy.swf"
+        "path": "./assets/gfiles/flash/?swf=meatboy.swf"
     },
     {
         "type": "Flash",
         "name": "Megamanprojectx",
-        "path": "./gfiles/flash/?swf=megamanprojectx.swf"
+        "path": "./assets/gfiles/flash/?swf=megamanprojectx.swf"
     },
     {
         "type": "Flash",
         "name": "Metroidelements",
-        "path": "./gfiles/flash/?swf=metroidelements.swf"
+        "path": "./assets/gfiles/flash/?swf=metroidelements.swf"
     },
     {
         "type": "Flash",
         "name": "Mineblocks",
-        "path": "./gfiles/flash/?swf=mineblocks.swf"
+        "path": "./assets/gfiles/flash/?swf=mineblocks.swf"
     },
     {
         "type": "Flash",
         "name": "Minesweeper",
-        "path": "./gfiles/flash/?swf=minesweeper.swf"
+        "path": "./assets/gfiles/flash/?swf=minesweeper.swf"
     },
     {
         "type": "Flash",
         "name": "Mirrorsedge",
-        "path": "./gfiles/flash/?swf=mirrorsedge.swf"
+        "path": "./assets/gfiles/flash/?swf=mirrorsedge.swf"
     },
     {
         "type": "Flash",
         "name": "Moneymovers",
-        "path": "./gfiles/flash/?swf=moneymovers.swf"
+        "path": "./assets/gfiles/flash/?swf=moneymovers.swf"
     },
     {
         "type": "Flash",
         "name": "Moneymovers3",
-        "path": "./gfiles/flash/?swf=moneymovers3.swf"
+        "path": "./assets/gfiles/flash/?swf=moneymovers3.swf"
     },
     {
         "type": "Flash",
         "name": "Motherload",
-        "path": "./gfiles/flash/?swf=motherload.swf"
+        "path": "./assets/gfiles/flash/?swf=motherload.swf"
     },
     {
         "type": "Flash",
         "name": "Motox3m",
-        "path": "./gfiles/flash/?swf=motox3m.swf"
+        "path": "./assets/gfiles/flash/?swf=motox3m.swf"
     },
     {
         "type": "Flash",
         "name": "Multitask",
-        "path": "./gfiles/flash/?swf=multitask.swf"
+        "path": "./assets/gfiles/flash/?swf=multitask.swf"
     },
     {
         "type": "Flash",
         "name": "Mutilateadoll2",
-        "path": "./gfiles/flash/?swf=mutilateadoll2.swf"
+        "path": "./assets/gfiles/flash/?swf=mutilateadoll2.swf"
     },
     {
         "type": "Flash",
         "name": "Myangel",
-        "path": "./gfiles/flash/?swf=myangel.swf"
+        "path": "./assets/gfiles/flash/?swf=myangel.swf"
     },
     {
         "type": "Flash",
         "name": "Nanotube",
-        "path": "./gfiles/flash/?swf=nanotube.swf"
+        "path": "./assets/gfiles/flash/?swf=nanotube.swf"
     },
     {
         "type": "Flash",
         "name": "Newgroundsrumble",
-        "path": "./gfiles/flash/?swf=newgroundsrumble.swf"
+        "path": "./assets/gfiles/flash/?swf=newgroundsrumble.swf"
     },
     {
         "type": "Flash",
         "name": "Ngame",
-        "path": "./gfiles/flash/?swf=ngame.swf"
+        "path": "./assets/gfiles/flash/?swf=ngame.swf"
     },
     {
         "type": "Flash",
         "name": "Nitromemustdie",
-        "path": "./gfiles/flash/?swf=nitromemustdie.swf"
+        "path": "./assets/gfiles/flash/?swf=nitromemustdie.swf"
     },
     {
         "type": "Flash",
         "name": "Nucleus",
-        "path": "./gfiles/flash/?swf=nucleus.swf"
+        "path": "./assets/gfiles/flash/?swf=nucleus.swf"
     },
     {
         "type": "Flash",
         "name": "Nv2",
-        "path": "./gfiles/flash/?swf=nv2.swf"
+        "path": "./assets/gfiles/flash/?swf=nv2.swf"
     },
     {
         "type": "Flash",
         "name": "Nyancatlostinspace",
-        "path": "./gfiles/flash/?swf=nyancatlostinspace.swf"
+        "path": "./assets/gfiles/flash/?swf=nyancatlostinspace.swf"
     },
     {
         "type": "Flash",
         "name": "Offroaders",
-        "path": "./gfiles/flash/?swf=offroaders.swf"
+        "path": "./assets/gfiles/flash/?swf=offroaders.swf"
     },
     {
         "type": "Flash",
         "name": "Onemanarmy2",
-        "path": "./gfiles/flash/?swf=onemanarmy2.swf"
+        "path": "./assets/gfiles/flash/?swf=onemanarmy2.swf"
     },
     {
         "type": "Flash",
         "name": "Outofthisworld",
-        "path": "./gfiles/flash/?swf=outofthisworld.swf"
+        "path": "./assets/gfiles/flash/?swf=outofthisworld.swf"
     },
     {
         "type": "Flash",
         "name": "Pacman",
-        "path": "./gfiles/flash/?swf=pacman.swf"
+        "path": "./assets/gfiles/flash/?swf=pacman.swf"
     },
     {
         "type": "Flash",
         "name": "Pandemic",
-        "path": "./gfiles/flash/?swf=pandemic.swf"
+        "path": "./assets/gfiles/flash/?swf=pandemic.swf"
     },
     {
         "type": "Flash",
         "name": "Pandemic2",
-        "path": "./gfiles/flash/?swf=pandemic2.swf"
+        "path": "./assets/gfiles/flash/?swf=pandemic2.swf"
     },
     {
         "type": "Flash",
         "name": "Papalouie",
-        "path": "./gfiles/flash/?swf=papalouie.swf"
+        "path": "./assets/gfiles/flash/?swf=papalouie.swf"
     },
     {
         "type": "Flash",
         "name": "Papalouie2",
-        "path": "./gfiles/flash/?swf=papalouie2.swf"
+        "path": "./assets/gfiles/flash/?swf=papalouie2.swf"
     },
     {
         "type": "Flash",
         "name": "Papalouie3",
-        "path": "./gfiles/flash/?swf=papalouie3.swf"
+        "path": "./assets/gfiles/flash/?swf=papalouie3.swf"
     },
     {
         "type": "Flash",
         "name": "Picosschool",
-        "path": "./gfiles/flash/?swf=picosschool.swf"
+        "path": "./assets/gfiles/flash/?swf=picosschool.swf"
     },
     {
         "type": "Flash",
         "name": "Picosschool2",
-        "path": "./gfiles/flash/?swf=picosschool2.swf"
+        "path": "./assets/gfiles/flash/?swf=picosschool2.swf"
     },
     {
         "type": "Flash",
         "name": "Pirates",
-        "path": "./gfiles/flash/?swf=pirates.swf"
+        "path": "./assets/gfiles/flash/?swf=pirates.swf"
     },
     {
         "type": "Flash",
         "name": "Polarjump",
-        "path": "./gfiles/flash/?swf=polarjump.swf"
+        "path": "./assets/gfiles/flash/?swf=polarjump.swf"
     },
     {
         "type": "Flash",
         "name": "Portal",
-        "path": "./gfiles/flash/?swf=portal.swf"
+        "path": "./assets/gfiles/flash/?swf=portal.swf"
     },
     {
         "type": "Flash",
         "name": "Portal2d",
-        "path": "./gfiles/flash/?swf=portal2d.swf"
+        "path": "./assets/gfiles/flash/?swf=portal2d.swf"
     },
     {
         "type": "Flash",
         "name": "Quadrobarreldefence",
-        "path": "./gfiles/flash/?swf=quadrobarreldefence.swf"
+        "path": "./assets/gfiles/flash/?swf=quadrobarreldefence.swf"
     },
     {
         "type": "Flash",
         "name": "Qubeythecube",
-        "path": "./gfiles/flash/?swf=qubeythecube.swf"
+        "path": "./assets/gfiles/flash/?swf=qubeythecube.swf"
     },
     {
         "type": "Flash",
         "name": "Qwop",
-        "path": "./gfiles/flash/?swf=qwop.swf"
+        "path": "./assets/gfiles/flash/?swf=qwop.swf"
     },
     {
         "type": "Flash",
         "name": "Raftwars",
-        "path": "./gfiles/flash/?swf=raftwars.swf"
+        "path": "./assets/gfiles/flash/?swf=raftwars.swf"
     },
     {
         "type": "Flash",
         "name": "Raftwars2",
-        "path": "./gfiles/flash/?swf=raftwars2.swf"
+        "path": "./assets/gfiles/flash/?swf=raftwars2.swf"
     },
     {
         "type": "Flash",
         "name": "Raze",
-        "path": "./gfiles/flash/?swf=raze.swf"
+        "path": "./assets/gfiles/flash/?swf=raze.swf"
     },
     {
         "type": "Flash",
         "name": "Redball",
-        "path": "./gfiles/flash/?swf=redball.swf"
+        "path": "./assets/gfiles/flash/?swf=redball.swf"
     },
     {
         "type": "Flash",
         "name": "Redball2",
-        "path": "./gfiles/flash/?swf=redball2.swf"
+        "path": "./assets/gfiles/flash/?swf=redball2.swf"
     },
     {
         "type": "Flash",
         "name": "Redball4",
-        "path": "./gfiles/flash/?swf=redball4.swf"
+        "path": "./assets/gfiles/flash/?swf=redball4.swf"
     },
     {
         "type": "Flash",
         "name": "Redball4v2",
-        "path": "./gfiles/flash/?swf=redball4v2.swf"
+        "path": "./assets/gfiles/flash/?swf=redball4v2.swf"
     },
     {
         "type": "Flash",
         "name": "Redball4v3",
-        "path": "./gfiles/flash/?swf=redball4v3.swf"
+        "path": "./assets/gfiles/flash/?swf=redball4v3.swf"
     },
     {
         "type": "Flash",
         "name": "Redshift",
-        "path": "./gfiles/flash/?swf=redshift.swf"
+        "path": "./assets/gfiles/flash/?swf=redshift.swf"
     },
     {
         "type": "Flash",
         "name": "Revenant2",
-        "path": "./gfiles/flash/?swf=revenant2.swf"
+        "path": "./assets/gfiles/flash/?swf=revenant2.swf"
     },
     {
         "type": "Flash",
         "name": "Riddleschool1",
-        "path": "./gfiles/flash/?swf=riddleschool1.swf"
+        "path": "./assets/gfiles/flash/?swf=riddleschool1.swf"
     },
     {
         "type": "Flash",
         "name": "Riddleschool2",
-        "path": "./gfiles/flash/?swf=riddleschool2.swf"
+        "path": "./assets/gfiles/flash/?swf=riddleschool2.swf"
     },
     {
         "type": "Flash",
         "name": "Riddleschool3",
-        "path": "./gfiles/flash/?swf=riddleschool3.swf"
+        "path": "./assets/gfiles/flash/?swf=riddleschool3.swf"
     },
     {
         "type": "Flash",
         "name": "Riddleschool4",
-        "path": "./gfiles/flash/?swf=riddleschool4.swf"
+        "path": "./assets/gfiles/flash/?swf=riddleschool4.swf"
     },
     {
         "type": "Flash",
         "name": "Riddleschool5",
-        "path": "./gfiles/flash/?swf=riddleschool5.swf"
+        "path": "./assets/gfiles/flash/?swf=riddleschool5.swf"
     },
     {
         "type": "Flash",
         "name": "Riddletransfer",
-        "path": "./gfiles/flash/?swf=riddletransfer.swf"
+        "path": "./assets/gfiles/flash/?swf=riddletransfer.swf"
     },
     {
         "type": "Flash",
         "name": "Riddletransfer2",
-        "path": "./gfiles/flash/?swf=riddletransfer2.swf"
+        "path": "./assets/gfiles/flash/?swf=riddletransfer2.swf"
     },
     {
         "type": "Flash",
         "name": "Run2",
-        "path": "./gfiles/flash/?swf=run2.swf"
+        "path": "./assets/gfiles/flash/?swf=run2.swf"
     },
     {
         "type": "Flash",
         "name": "Run3",
-        "path": "./gfiles/flash/?swf=run3.swf"
+        "path": "./assets/gfiles/flash/?swf=run3.swf"
     },
     {
         "type": "Flash",
         "name": "Saszombieassault3",
-        "path": "./gfiles/flash/?swf=saszombieassault3.swf"
+        "path": "./assets/gfiles/flash/?swf=saszombieassault3.swf"
     },
     {
         "type": "Flash",
         "name": "Sentryknight",
-        "path": "./gfiles/flash/?swf=sentryknight.swf"
+        "path": "./assets/gfiles/flash/?swf=sentryknight.swf"
     },
     {
         "type": "Flash",
         "name": "Shoppingcarthero3",
-        "path": "./gfiles/flash/?swf=shoppingcarthero3.swf"
+        "path": "./assets/gfiles/flash/?swf=shoppingcarthero3.swf"
     },
     {
         "type": "Flash",
         "name": "Siftheads",
-        "path": "./gfiles/flash/?swf=siftheads.swf"
+        "path": "./assets/gfiles/flash/?swf=siftheads.swf"
     },
     {
         "type": "Flash",
         "name": "Siftheads2",
-        "path": "./gfiles/flash/?swf=siftheads2.swf"
+        "path": "./assets/gfiles/flash/?swf=siftheads2.swf"
     },
     {
         "type": "Flash",
         "name": "Siftheads3",
-        "path": "./gfiles/flash/?swf=siftheads3.swf"
+        "path": "./assets/gfiles/flash/?swf=siftheads3.swf"
     },
     {
         "type": "Flash",
         "name": "Siftheads4",
-        "path": "./gfiles/flash/?swf=siftheads4.swf"
+        "path": "./assets/gfiles/flash/?swf=siftheads4.swf"
     },
     {
         "type": "Flash",
         "name": "Siftheads5",
-        "path": "./gfiles/flash/?swf=siftheads5.swf"
+        "path": "./assets/gfiles/flash/?swf=siftheads5.swf"
     },
     {
         "type": "Flash",
         "name": "Sniperassassin4",
-        "path": "./gfiles/flash/?swf=sniperassassin4.swf"
+        "path": "./assets/gfiles/flash/?swf=sniperassassin4.swf"
     },
     {
         "type": "Flash",
         "name": "Sportsheadsfootball",
-        "path": "./gfiles/flash/?swf=sportsheadsfootball.swf"
+        "path": "./assets/gfiles/flash/?swf=sportsheadsfootball.swf"
     },
     {
         "type": "Flash",
         "name": "Sportsheadsracing",
-        "path": "./gfiles/flash/?swf=sportsheadsracing.swf"
+        "path": "./assets/gfiles/flash/?swf=sportsheadsracing.swf"
     },
     {
         "type": "Flash",
         "name": "Sportsheadstennis",
-        "path": "./gfiles/flash/?swf=sportsheadstennis.swf"
+        "path": "./assets/gfiles/flash/?swf=sportsheadstennis.swf"
     },
     {
         "type": "Flash",
         "name": "Stickrpg",
-        "path": "./gfiles/flash/?swf=stickrpg.swf"
+        "path": "./assets/gfiles/flash/?swf=stickrpg.swf"
     },
     {
         "type": "Flash",
         "name": "Stickrun2",
-        "path": "./gfiles/flash/?swf=stickrun2.swf"
+        "path": "./assets/gfiles/flash/?swf=stickrun2.swf"
     },
     {
         "type": "Flash",
         "name": "Stickwar",
-        "path": "./gfiles/flash/?swf=stickwar.swf"
+        "path": "./assets/gfiles/flash/?swf=stickwar.swf"
     },
     {
         "type": "Flash",
         "name": "Strikeforceheroes2",
-        "path": "./gfiles/flash/?swf=strikeforceheroes2.swf"
+        "path": "./assets/gfiles/flash/?swf=strikeforceheroes2.swf"
     },
     {
         "type": "Flash",
         "name": "Strikeforcekittylaststand",
-        "path": "./gfiles/flash/?swf=strikeforcekittylaststand.swf"
+        "path": "./assets/gfiles/flash/?swf=strikeforcekittylaststand.swf"
     },
     {
         "type": "Flash",
         "name": "Sugarsugar",
-        "path": "./gfiles/flash/?swf=sugarsugar.swf"
+        "path": "./assets/gfiles/flash/?swf=sugarsugar.swf"
     },
     {
         "type": "Flash",
         "name": "Sugarsugar2",
-        "path": "./gfiles/flash/?swf=sugarsugar2.swf"
+        "path": "./assets/gfiles/flash/?swf=sugarsugar2.swf"
     },
     {
         "type": "Flash",
         "name": "Sugarsugar3",
-        "path": "./gfiles/flash/?swf=sugarsugar3.swf"
+        "path": "./assets/gfiles/flash/?swf=sugarsugar3.swf"
     },
     {
         "type": "Flash",
         "name": "Superd",
-        "path": "./gfiles/flash/?swf=superd.swf"
+        "path": "./assets/gfiles/flash/?swf=superd.swf"
     },
     {
         "type": "Flash",
         "name": "Superfighters",
-        "path": "./gfiles/flash/?swf=superfighters.swf"
+        "path": "./assets/gfiles/flash/?swf=superfighters.swf"
     },
     {
         "type": "Flash",
         "name": "Supermario63",
-        "path": "./gfiles/flash/?swf=supermario63.swf"
+        "path": "./assets/gfiles/flash/?swf=supermario63.swf"
     },
     {
         "type": "Flash",
         "name": "Supermarioflash",
-        "path": "./gfiles/flash/?swf=supermarioflash.swf"
+        "path": "./assets/gfiles/flash/?swf=supermarioflash.swf"
     },
     {
         "type": "Flash",
         "name": "Supermarioflash2",
-        "path": "./gfiles/flash/?swf=supermarioflash2.swf"
+        "path": "./assets/gfiles/flash/?swf=supermarioflash2.swf"
     },
     {
         "type": "Flash",
         "name": "Supersmashflash",
-        "path": "./gfiles/flash/?swf=supersmashflash.swf"
+        "path": "./assets/gfiles/flash/?swf=supersmashflash.swf"
     },
     {
         "type": "Flash",
         "name": "Swordsandsandals2",
-        "path": "./gfiles/flash/?swf=swordsandsandals2.swf"
+        "path": "./assets/gfiles/flash/?swf=swordsandsandals2.swf"
     },
     {
         "type": "Flash",
         "name": "Tacticalassassin",
-        "path": "./gfiles/flash/?swf=tacticalassassin.swf"
+        "path": "./assets/gfiles/flash/?swf=tacticalassassin.swf"
     },
     {
         "type": "Flash",
         "name": "Tanks",
-        "path": "./gfiles/flash/?swf=tanks.swf"
+        "path": "./assets/gfiles/flash/?swf=tanks.swf"
     },
     {
         "type": "Flash",
         "name": "Tanktrouble",
-        "path": "./gfiles/flash/?swf=tanktrouble.swf"
+        "path": "./assets/gfiles/flash/?swf=tanktrouble.swf"
     },
     {
         "type": "Flash",
         "name": "Tetris",
-        "path": "./gfiles/flash/?swf=tetris.swf"
+        "path": "./assets/gfiles/flash/?swf=tetris.swf"
     },
     {
         "type": "Flash",
         "name": "Thebindingofisaac",
-        "path": "./gfiles/flash/?swf=thebindingofisaac.swf"
+        "path": "./assets/gfiles/flash/?swf=thebindingofisaac.swf"
     },
     {
         "type": "Flash",
         "name": "Thegame",
-        "path": "./gfiles/flash/?swf=thegame.swf"
+        "path": "./assets/gfiles/flash/?swf=thegame.swf"
     },
     {
         "type": "Flash",
         "name": "Theimpossiblequiz",
-        "path": "./gfiles/flash/?swf=theimpossiblequiz.swf"
+        "path": "./assets/gfiles/flash/?swf=theimpossiblequiz.swf"
     },
     {
         "type": "Flash",
         "name": "Theimpossiblequiz2",
-        "path": "./gfiles/flash/?swf=theimpossiblequiz2.swf"
+        "path": "./assets/gfiles/flash/?swf=theimpossiblequiz2.swf"
     },
     {
         "type": "Flash",
         "name": "Theworldshardestgame2",
-        "path": "./gfiles/flash/?swf=theworldshardestgame2.swf"
+        "path": "./assets/gfiles/flash/?swf=theworldshardestgame2.swf"
     },
     {
         "type": "Flash",
         "name": "Thingthingarena",
-        "path": "./gfiles/flash/?swf=thingthingarena.swf"
+        "path": "./assets/gfiles/flash/?swf=thingthingarena.swf"
     },
     {
         "type": "Flash",
         "name": "Thisistheonlylevel",
-        "path": "./gfiles/flash/?swf=thisistheonlylevel.swf"
+        "path": "./assets/gfiles/flash/?swf=thisistheonlylevel.swf"
     },
     {
         "type": "Flash",
         "name": "Tosstheturtle",
-        "path": "./gfiles/flash/?swf=tosstheturtle.swf"
+        "path": "./assets/gfiles/flash/?swf=tosstheturtle.swf"
     },
     {
         "type": "Flash",
         "name": "Truckloader4",
-        "path": "./gfiles/flash/?swf=truckloader4.swf"
+        "path": "./assets/gfiles/flash/?swf=truckloader4.swf"
     },
     {
         "type": "Flash",
         "name": "Ultimateflashsonic",
-        "path": "./gfiles/flash/?swf=ultimateflashsonic.swf"
+        "path": "./assets/gfiles/flash/?swf=ultimateflashsonic.swf"
     },
     {
         "type": "Flash",
         "name": "Ultimatetactics",
-        "path": "./gfiles/flash/?swf=ultimatetactics.swf"
+        "path": "./assets/gfiles/flash/?swf=ultimatetactics.swf"
     },
     {
         "type": "Flash",
         "name": "Unrealflash",
-        "path": "./gfiles/flash/?swf=unrealflash.swf"
+        "path": "./assets/gfiles/flash/?swf=unrealflash.swf"
     },
     {
         "type": "Flash",
         "name": "Vex",
-        "path": "./gfiles/flash/?swf=vex.swf"
+        "path": "./assets/gfiles/flash/?swf=vex.swf"
     },
     {
         "type": "Flash",
         "name": "Vex2",
-        "path": "./gfiles/flash/?swf=vex2.swf"
+        "path": "./assets/gfiles/flash/?swf=vex2.swf"
     },
     {
         "type": "Flash",
         "name": "Vex3",
-        "path": "./gfiles/flash/?swf=vex3.swf"
+        "path": "./assets/gfiles/flash/?swf=vex3.swf"
     },
     {
         "type": "Flash",
         "name": "Warfare1917",
-        "path": "./gfiles/flash/?swf=warfare1917.swf"
+        "path": "./assets/gfiles/flash/?swf=warfare1917.swf"
     },
     {
         "type": "Flash",
         "name": "Warfare1944",
-        "path": "./gfiles/flash/?swf=warfare1944.swf"
+        "path": "./assets/gfiles/flash/?swf=warfare1944.swf"
     },
     {
         "type": "Flash",
         "name": "Warp",
-        "path": "./gfiles/flash/?swf=warp.swf"
+        "path": "./assets/gfiles/flash/?swf=warp.swf"
     },
     {
         "type": "Flash",
         "name": "Xenos",
-        "path": "./gfiles/flash/?swf=xenos.swf"
+        "path": "./assets/gfiles/flash/?swf=xenos.swf"
     },
     {
         "type": "Flash",
         "name": "Xtremecliffdiving",
-        "path": "./gfiles/flash/?swf=xtremecliffdiving.swf"
+        "path": "./assets/gfiles/flash/?swf=xtremecliffdiving.swf"
     },
     {
         "type": "Flash",
         "name": "Yearofthesnake",
-        "path": "./gfiles/flash/?swf=yearofthesnake.swf"
+        "path": "./assets/gfiles/flash/?swf=yearofthesnake.swf"
     },
     {
         "type": "Flash",
         "name": "Yuriusshouseofspooks",
-        "path": "./gfiles/flash/?swf=yuriusshouseofspooks.swf"
+        "path": "./assets/gfiles/flash/?swf=yuriusshouseofspooks.swf"
     },
     {
         "type": "Flash",
         "name": "Zombiealienparasites",
-        "path": "./gfiles/flash/?swf=zombiealienparasites.swf"
+        "path": "./assets/gfiles/flash/?swf=zombiealienparasites.swf"
     }
 ]
