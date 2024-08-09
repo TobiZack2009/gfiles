@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Game Website</title>
+    <title>GAMAX</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -77,28 +77,11 @@
         GameZ
 
 
-        All the games you could everwant?
+        <br>All the games you could everwant?
     </header>
 
     <div class="game-list">
-        <div class="game-item" onclick="openGame('https://example.com/game1')">
-            <h3>Game 1</h3>
-        </div>
-        <div class="game-item" onclick="openGame('https://example.com/game2')">
-            <h3>Game 2</h3>
-        </div>
-        <div class="game-item" onclick="openGame('https://example.com/game3')">
-            <h3>Game 3</h3>
-        </div>
-        <div class="game-item" onclick="openGame('https://example.com/game4')">
-            <h3>Game 4</h3>
-        </div>
-        <div class="game-item" onclick="openGame('https://example.com/game5')">
-            <h3>Game 5</h3>
-        </div>
-        <div class="game-item" onclick="openGame('https://example.com/game6')">
-            <h3>Game 6</h3>
-        </div>
+       
     </div>
 
     <dialog id="gameDialog">
@@ -116,6 +99,22 @@
             document.getElementById('gameDialog').close();
             document.getElementById('gameFrame').src = '';
         }
+
+        (async (x)=>{
+             s=await fetch("games.json")
+             r=await s.json()
+
+
+             for(let i in r){
+                z=r[i]
+                document.querySelector(".game-list")
+                .innerHTML+=`
+                <div class="game-item" onclick="openGame('${z.path}')">
+            <h3>${z.name}</h3>
+        </div>
+                `
+             }
+        })()
     </script>
 </body>
 </html>
