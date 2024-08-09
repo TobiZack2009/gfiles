@@ -4,7 +4,7 @@ import json
 from itertools import chain
 
 outindex = "games_list.json"
-outdir = "./gfiles/"
+outdir = "./assets/gfiles/"
 html5gamesin = "html5/"
 rarchgamesin = "rarch/"
 romdir = "roms/*"

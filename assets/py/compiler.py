@@ -14,7 +14,79 @@ pregen = [".mdx", ".md", ".smd", ".gen", ".sms", ".gg", ".sg"]
 prenes = [".nes", ".fds", ".unf", ".unif"]
 pren64 = [".n64", ".v64", ".z64", ".ndd"]
 presnes = [".smc", ".sfc", ".swc", ".fig"]
-index = '''<!DOCTYPE html>\n<html>\n<head>\n<title>Games List</title>\n<link rel="stylesheet" href="./css/style.css">\n</head>\n<body>\n<div class="container">\n<div class="box">\n<input type="text" id="gsearchbar" onkeyup="document.querySelectorAll('#glist>a').forEach(l=>l.style.display=l.textContent.toUpperCase().includes(this.value.toUpperCase().replace(/ /g,''))?'block':'none')" autocomplete="off" spellcheck="false" placeholder="Search" />\n<div id="glist">\n%s\n</div>\n</div>\n</div>\n<script> </script>\n</body>\n</html>'''
+index = '''<!DOCTYPE html>\n<html>\n<head>\n<title>Games List</title>\n
+<style>
+body {
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+}
+
+.container {
+	padding: 20px;
+}
+
+.box {
+	margin: auto;
+	background-color: white;
+	padding: 10px;
+	width: 400px;
+}
+
+#glist {
+	overflow-x: hidden;
+	overflow-y: scroll;
+	width: 400px;
+	height: 520px;
+	padding: 0;
+	text-align: center;
+}
+
+#gsearchbar {
+	outline: none;
+	width: 374px;
+	font-size: 16px;
+	border: 1px solid rgba(0, 0, 0, 0.3);
+	padding: 12px;
+	margin-bottom: 10px;
+	transition: 0.2s ease;
+}
+
+#gsearchbar:focus {
+	background-color: #eee;
+	box-shadow: inset 0 0 5px 1px rgba(0, 0, 0, 0.4);
+}
+
+#glist h2 {
+	display: block;
+	color: white;
+	font: 18px;
+	border: 1px solid #060606;
+	margin: -1px 0 0 0;
+	background-color: #060606;
+	padding: 12px;
+	font-weight: bold;
+	user-select: none;
+}
+
+#glist a {
+	display: block;
+	text-decoration: inherit;
+	color: black;
+	font-size: 18px;
+	border: 1px solid #dddddd;
+	margin-top: -1px;
+	background-color: #f6f6f6;
+	padding: 12px;
+	transition: 0.2s ease;
+}
+
+#glist a:hover {
+	background-color: #eeeeee;
+	text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+}
+</style>
+\n</head>\n<body>\n<div class="container">\n<div class="box">\n<input type="text" id="gsearchbar" onkeyup="document.querySelectorAll('#glist>a').forEach(l=>l.style.display=l.textContent.toUpperCase().includes(this.value.toUpperCase().replace(/ /g,''))?'block':'none')" autocomplete="off" spellcheck="false" placeholder="Search" />\n<div id="glist">\n%s\n</div>\n</div>\n</div>\n<script> </script>\n</body>\n</html>'''
 alist = '''<a href="%s">%s</a>'''
 html5names = {"adarkroom": "A Dark Room", "asciispace": "ASCII Space", "blackholesquare": "Black Hole Square", "bounceback": "Bounce Back", "captaincallisto": "Captain Callisto", "chromaincident": "Chroma Incident", "chromedino": "Chrome Dino", "connect3": "Connect 3", "cookieclicker": "Cookie Clicker", "edgenotfound": "Edge not Found", "evilglitch": "Evil Glitch", "factoryballsforever": "Factory Balls Forever", "flappybird": "Flappy Bird", "geometrydash": "Geometry Dash", "ninjavsevilcorp": "Ninja vs Evilcorp", "pacman": "Pac-Man", "particleclicker": "Particle Clicker", "pushback": "Push Back", "radiusraid": "Radius Raid", "roadblocks": "Road Blocks", "run3": "Run 3", "sleepingbeauty": "Sleeping Beauty", "spacecompany": "Space Company", "spacegarden": "Space Garden", "spacehuggers": "Space Huggers", "themazeofspacegoblins": "The Maze of Space Goblins", "xx142-b2exe": "xx142-b2.exe"}
 
