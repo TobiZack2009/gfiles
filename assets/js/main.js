@@ -26,3 +26,6 @@ function closeGame() {
     gamesList.appendChild(gameDiv)
   }
 })();
+
+
+document.querySelector("button.fullscreen").onclick=()=>document.fullscreenElement==null?document.querySelector('iframe').requestFullscreen():document.exitFullscreen()
