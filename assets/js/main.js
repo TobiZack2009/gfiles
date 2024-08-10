@@ -16,7 +16,7 @@ function closeGame() {
 
   for (let i in r) {
     let z = r[i]; //One of the iterable objects.
-    if (z.name == "webretro"|| z.includes("Upload")) continue;
+    if (z.name == "webretro"|| z.name.includes("Upload")) continue;
 
     let gamesList=document.querySelector(".game-list")
     let gameDiv=document.createElement("div")
