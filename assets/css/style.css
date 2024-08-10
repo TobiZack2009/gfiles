@@ -59,15 +59,16 @@ iframe {
 }
 button {
 	
-	padding: 10px 20px;
+	width: 30px;
+	height: 30px;
 	font-size: 16px;
 	cursor: pointer;
 	border: none;
 	border-radius: 5px;
 	color: #333;
-	background-image: url("/assets/icons/close.png");
+	background-image: url("/assets/icons/close.svg");
 	background-repeat: no-repeat;
-  background-attachment: fixed;
+    background-color: transparent;
   background-size: 100% 100%;
 	transition: color 0.3s;
 	text-align: left;
